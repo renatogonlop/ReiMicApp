@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "1",
+        "name": "MICROFONE"
+    },
+    {
+        "_id": "2",
+        "name": "INTERFACE"
+    },
+    {
+        "_id": "3",
+        "name": "ACESSORIO-FONE"
+    },
+    {
+        "_id": "4",
+        "name": "MICROFONE-POD"
+    },
+    {
+        "_id": "5",
+        "name": "ACESSORIO-CABO"
+    },
+    {
+        "_id": "6",
+        "name": "ACESSORIO-SUPORTE"
+    }
+]
